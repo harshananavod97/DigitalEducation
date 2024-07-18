@@ -1,0 +1,44 @@
+include: package:very_good_analysis/analysis_options.yaml
+
+linter:
+  rules:
+    file_names: false
+    use_build_context_synchronously: false
+    public_member_api_docs: false
+    type_annotate_public_apis: false
+    lines_longer_than_80_chars: false
+
+analyzer:
+  plugins:
+    - dart_code_metrics
+
+dart_code_metrics:
+  extends:
+    - package:dart_code_metrics_presets/all.yaml
+  metrics:
+    cyclomatic-complexity: 20
+    number-of-parameters: 4
+    maximum-nesting-level: 4
+    lines-of-code: 100
+    maintainability-index: 50
+    number-of-methods: 10
+
+  metrics-exclude:
+    - test/**
+  rules:
+    - avoid-dynamic
+    - avoid-passing-async-when-sync-expected
+    - avoid-redundant-async
+    - avoid-unnecessary-type-assertions
+    - avoid-unnecessary-type-casts
+    - avoid-unrelated-type-assertions
+    - avoid-unused-parameters
+    - avoid-nested-conditional-expressions
+    - newline-before-return
+    - no-boolean-literal-compare
+    - no-empty-block
+    - prefer-trailing-comma
+    - prefer-conditional-expressions
+    - no-equal-then-else
+    - prefer-moving-to-variable
+    - prefer-match-file-name

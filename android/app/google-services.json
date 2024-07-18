@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411542836161",
+    "project_id": "digitaleducation-1c2ff",
+    "storage_bucket": "digitaleducation-1c2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411542836161:android:7a9d9f4bc43cbee87a1540",
+        "android_client_info": {
+          "package_name": "com.harshana.digitaleducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411542836161-th1oh3a6vr5150aomc3qsfa67rcdqkqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshana.digitaleducation",
+            "certificate_hash": "6732629a14f9603ead9c99c2d7355c7b6c2e7aa1"
+          }
+        },
+        {
+          "client_id": "411542836161-n7scnbi7nirnvggagjeci0tmmi7he8sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpeR0tliiHJUyh4QUK364r2AUw7ieuUJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411542836161-n7scnbi7nirnvggagjeci0tmmi7he8sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

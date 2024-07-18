@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17696" data-name="Rectangle 17696" width="46" height="46" rx="5" transform="translate(0.804 0.804)" fill="#4a65a0"/>
+    </clipPath>
+  </defs>
+  <g id="paypal" transform="translate(0.396 0.094)">
+    <rect id="Rectangle_118" data-name="Rectangle 118" width="62" height="62" rx="5" transform="translate(-0.396 -0.094)" fill="#f3f7fa"/>
+    <g id="Mask_Group_3764" data-name="Mask Group 3764" transform="translate(6.8 7.103)" clip-path="url(#clip-path)">
+      <g id="paypal_1_" data-name="paypal (1)" transform="translate(4.28 0.5)">
+        <path id="Path_8" data-name="Path 8" d="M33.351,41.582c-2.03-2.32-5.8-3.48-11.02-3.48H7.83a2.488,2.488,0,0,0-2.03,1.74L0,77.834a1.327,1.327,0,0,0,1.16,1.45h8.99l2.32-14.211v.58a2.488,2.488,0,0,1,2.03-1.74h4.35c8.41,0,14.791-3.48,16.821-13.05v-.87h0c.29-3.77-.29-6.09-2.32-8.41" transform="translate(0 -38.102)" fill="#263b80"/>
+        <path id="Path_9" data-name="Path 9" d="M31.3,44.764h0v.87c-2.03,9.86-8.41,13.05-16.821,13.05h-4.35a2.488,2.488,0,0,0-2.03,1.74L5.2,78.115a1.062,1.062,0,0,0,1.16,1.16H13.9a1.624,1.624,0,0,0,1.74-1.45v-.29l1.45-8.99v-.58a1.624,1.624,0,0,1,1.74-1.45h1.16c7.25,0,13.05-2.9,14.5-11.6.58-3.48.29-6.67-1.45-8.7a2.97,2.97,0,0,0-1.74-1.45" transform="translate(4.079 -32.874)" fill="#139ad6"/>
+        <path id="Path_10" data-name="Path 10" d="M27.867,44.663c-.29,0-.58-.29-.87-.29a1.065,1.065,0,0,1-.87-.29,15.321,15.321,0,0,0-3.77-.29H11.047a1.065,1.065,0,0,0-.87.29,1.6,1.6,0,0,0-.87,1.45L6.987,60.613v.58a2.488,2.488,0,0,1,2.03-1.74h4.35c8.41,0,14.791-3.48,16.821-13.05a1.065,1.065,0,0,1,.29-.87c-.58-.29-.87-.58-1.45-.58-.87-.29-.87-.29-1.16-.29" transform="translate(5.484 -33.642)" fill="#232c65"/>
+      </g>
+    </g>
+  </g>
+</svg>
